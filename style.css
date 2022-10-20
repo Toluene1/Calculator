@@ -9,6 +9,8 @@
    margin: auto;
    border: 1px solid lightgrey;
    border-radius: 30px;
+   padding-top: 10px;
+   padding-bottom: 10px;
  }
 
  .jp {
@@ -22,12 +24,13 @@
  }
 
  .imp {
-   width: 96%;
-   height: 130px;
+   width: 100%;
+   height: 100%;
    border: none;
    background-color: transparent;
    margin-top: 10px;
-   margin-left: 23px;
+   /* margin-left: 23px; */
+   margin: auto;
    color: lightgrey;
    font-size: 50px;
    /* float: right; */
@@ -44,7 +47,7 @@
  }
 
  .butt {
-   width: 200px;
+   width: 230px;
    height: 90px;
    padding: auto;
    margin: 7px;
